@@ -1,0 +1,28 @@
+{
+  "name": "koa-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtamsa/koa-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtamsa/koa-playground/issues"
+  },
+  "homepage": "https://github.com/rtamsa/koa-playground#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-json": "^2.0.2",
+    "koa-router": "^10.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
